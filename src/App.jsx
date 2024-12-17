@@ -50,8 +50,8 @@ function App() {
   }
 
   return (
-    <div className="container py-5">
-      <div className="text-center mb-4">
+    <div className="container vh-100 py-5">
+      <div className=" text-center mb-4">
         <h1 className="text-primary">QR Code Generator <FaQrcode className='text-light' />
         </h1>
         <p className="lead text-light">Generate and download QR codes effortlessly</p>
